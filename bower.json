@@ -1,0 +1,19 @@
+{
+  "name": "guletintern",
+  "homepage": "https://github.com/YunuSTuraN/gulletintern",
+  "authors": [
+    "Yunus Turan Yılmaz <yunus.yilmaz@orgino.com.tr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/lib",
+    "test",
+    "tests"
+  ]
+}
