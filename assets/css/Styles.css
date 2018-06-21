@@ -14,6 +14,7 @@
     border-bottom: 1px solid darkgray;
     display: block;
     text-align: right;
+    margin: 0;
 
 }
 .number-text {
@@ -62,7 +63,37 @@
         text-align: center;
     }
     .number {
+        font-family: "Gotham" , sans-serif;
+        text-decoration: none;
+        color: black;
         margin: 0;
+    }
+    .number:hover {
+        text-decoration: none;
+        color: black;
     }
 }
 /* Navbar Menü Başladı */
+.logo-or-menu {
+    background-color: white;
+    height: 70px;
+    border-bottom: 3px solid #e68b78;
+}
+.navbar-brand {
+    padding: 0;
+    margin: 0;
+}
+.logo {
+    height: 50px;
+    margin: 10px 0 10px 15px;
+    padding-right: 15px;
+    padding-left: 5px;
+}
+.menu {
+    color: #e68b78!important;
+    position: relative;
+    top: 10px;
+    left: 32px;
+    font-size: 12px;
+    font-weight: 600;
+}
