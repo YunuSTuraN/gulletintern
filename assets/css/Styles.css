@@ -1,37 +1,65 @@
+/* Fontlar */
+@font-face {
+    font-family: 'Gotham';
+    src: url('/assets/fonts/Gotham-Book.ttf') format('truetype');
+    src: url('/assets/fonts/Gotham-Book.woff') format('woff');
+    url('/assets/fonts/Gotham-Book.eot'),
+    url('/assets/fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),
+    font-weight: 500;
+    font-style: normal;
+}
 /* Numara ve Arama kutusu Başladı */
 .number-or-searchbox {
     background-color: white;
     border-bottom: 1px solid darkgray;
+    display: block;
+}
+.number-text {
+    display: inline-block;
 }
 .number {
-    font-weight: 600;
-    position: absolute;
+    font-family: "Gotham" , sans-serif;
     text-decoration: none;
     color: black;
-    top: 15px;
-    left: 55%;
 }
 .number:hover {
     text-decoration: none;
     color: black;
 }
+.search-engine {
+    display: inline-block;
+}
 .Search-Box {
-    position: absolute;
-    left: 70%;
+    padding: 0;
+    display: -webkit-box;
+    border: 1px;
+    margin: 8px 0 0 0;
+    outline: none;
 }
 .text-box{
-    outline: none;
     border: 1px solid darkgray;
     border-radius: 20px 0 0 20px;
     border-right: none;
-    float: right;
+    float: right;font-size: 16px;
+    color: black;
 }
 .button-box {
     border: 1px solid darkgray;
     border-radius: 0 20px 20px 0;
     border-left: none;
-    margin-left: -5px;
+    margin-left: -6px;
     cursor: pointer;
     outline: none;
+}
+@media screen and(max-width: 767px){
+    .number {
+        text-decoration: none;
+        color: black;
+    }
+    .number:hover {
+        text-decoration: none;
+        color: black;
+    }
+
 }
 /* Navbar Menü Başladı */
