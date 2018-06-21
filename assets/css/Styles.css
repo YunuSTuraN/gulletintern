@@ -13,6 +13,8 @@
     background-color: white;
     border-bottom: 1px solid darkgray;
     display: block;
+    text-align: right;
+
 }
 .number-text {
     display: inline-block;
@@ -21,6 +23,7 @@
     font-family: "Gotham" , sans-serif;
     text-decoration: none;
     color: black;
+    margin-right: 28px;
 }
 .number:hover {
     text-decoration: none;
@@ -40,7 +43,7 @@
     border: 1px solid darkgray;
     border-radius: 20px 0 0 20px;
     border-right: none;
-    float: right;font-size: 16px;
+    font-size: 14px;
     color: black;
 }
 .button-box {
@@ -51,15 +54,15 @@
     cursor: pointer;
     outline: none;
 }
-@media screen and(max-width: 767px){
+@media screen and (max-width: 767px){
+    .number-or-searchbox {
+        background-color: white;
+        border-bottom: 1px solid darkgray;
+        display: block;
+        text-align: center;
+    }
     .number {
-        text-decoration: none;
-        color: black;
+        margin: 0;
     }
-    .number:hover {
-        text-decoration: none;
-        color: black;
-    }
-
 }
 /* Navbar Menü Başladı */
