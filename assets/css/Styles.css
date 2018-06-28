@@ -185,6 +185,7 @@
     font-weight: 100;
     color: black;
     text-align: center;
+    margin: 0!important;
 }
 .Best_Tours {
     font-weight: bolder;
@@ -192,6 +193,7 @@
     color: black;
     font-size: 35px;
     text-align: center;
+    margin: 0;
 }
 
 /* Slider */
@@ -214,22 +216,17 @@ a.next a.prev:before {
 
 }
 /*Backgroud image two*/
-.thumbnail_background{
-    position: absolute;
-    overflow: hidden;
-    padding: 0;
-
-}
 /*text two*/
 .text_two {
-
     position: relative;
 }
 /*Thumbnail's*/
+#team {
+    background: url('../img/anasayfaarkaplan2.png');
+}
 .thumbnail {
     padding: 0;
     position: relative;
-    border: 1px white;
 }
 .thumbnail_img{
     width: 100%;
@@ -253,4 +250,28 @@ a.next a.prev:before {
     right: 0;
     border: 1px solid #e68b78;
     border-radius: 0;
+}
+/*email box*/
+.river{
+    background: url('../img/anasayfa_resmi_3.jpg') center;
+    background-size: cover;
+    position: relative;
+}
+.join_the_newsletter {
+    font-family: "Gotham" , sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0;
+}
+.to_receive_our_best_monthly_deals{
+    font-family: "Savoye LET", sans-serif;
+    margin: 0;
+    font-size: 18px;
+}
+.email_box_out{
+    margin: 0;
+    padding: 0;
+}
+.email_box{
+    border: 8px solid #69aff7;
 }
