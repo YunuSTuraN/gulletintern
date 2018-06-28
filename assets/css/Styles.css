@@ -1,13 +1,26 @@
 /* Fontlar */
 @font-face {
     font-family: 'Gotham';
-    src: url('/assets/fonts/Gotham-Book.woff') format('woff');
-    src: url('/assets/fonts/Gotham-Book.eot'),
-    url('/assets/fonts/Gotham-Book.ttf') format('truetype');
-    url('/assets/fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),
+    src: url('../fonts/Gotham-Book.woff') format('woff');
+    src: url('../fonts/Gotham-Book.eot'),
+    url('../fonts/Gotham-Book.ttf') format('truetype');
+    url('../fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),
     font-weight: 500;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Savoye LET';
+    src: url('../fonts/SavoyeLetPlain.eot');
+    src: url('../fonts/SavoyeLetPlain.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SavoyeLetPlain.woff') format('woff'),
+    url('../fonts/SavoyeLetPlain.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+
+
 /* Numara ve Arama kutusu Başladı */
 .number-or-searchbox {
     background-color: white;
@@ -120,7 +133,7 @@
 }
 /* Arkaplan Resmi 1 */
 .background-image-one {
-    position: absolute;
+    position: relative;
     width: 100%;
 }
 .text-bar-box {
@@ -142,7 +155,6 @@
     color: white;
 }
 .view-tours {
-    position: relative;
     border: 1px solid #e68b78;
     border-radius: 10px;
     background-color: #e68b78;
@@ -163,4 +175,80 @@
     background-color: #e68b78;
     color: white;
     text-decoration: none;
+}
+
+/*Yazı*/
+.Jake_a_look_at_our {
+    font-family: "Savoye LET", sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 100;
+    color: black;
+    text-align: center;
+}
+.Best_Tours {
+    font-weight: bolder;
+    font-style: normal;
+    color: black;
+    font-size: 35px;
+    text-align: center;
+}
+
+/* Slider */
+.sliderbox{
+    margin: 0 10px;
+    position: relative;
+}
+.slider_text{
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+    left: 10px;
+    bottom: 0;
+    color: white;
+}
+a.next a.prev:before {
+    position: relative;
+    top: 80px;
+    right: 40px;
+
+}
+/*Backgroud image two*/
+.background_img_two{
+    position: absolute;
+    width: 100%;
+}
+/*text two*/
+.text_two {
+    top: 30px;
+    position: relative;
+}
+/*Thumbnail's*/
+.thumbnail {
+    padding: 0;
+    position: relative;
+    top: 50px;
+}
+.thumbnail_img{
+    width: 100%;
+}
+.thumbnail_box {
+    padding: 10px;
+}
+.thumbnail_header{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.thumbnail_text {
+    text-align: center;
+}
+.details {
+    color: white;
+    background-color: #e68b78;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border: 1px solid #e68b78;
+    border-radius: 0;
 }
