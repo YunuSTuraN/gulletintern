@@ -214,26 +214,25 @@ a.next a.prev:before {
 
 }
 /*Backgroud image two*/
-.background_img_two{
+.thumbnail_background{
     position: absolute;
-    width: 100%;
+    overflow: hidden;
+    padding: 0;
+
 }
 /*text two*/
 .text_two {
-    top: 30px;
+
     position: relative;
 }
 /*Thumbnail's*/
 .thumbnail {
     padding: 0;
     position: relative;
-    top: 50px;
+    border: 1px white;
 }
 .thumbnail_img{
     width: 100%;
-}
-.thumbnail_box {
-    padding: 10px;
 }
 .thumbnail_header{
     text-align: center;
@@ -242,6 +241,9 @@ a.next a.prev:before {
 }
 .thumbnail_text {
     text-align: center;
+}
+.thumbnail_box {
+    padding: 10px;
 }
 .details {
     color: white;
