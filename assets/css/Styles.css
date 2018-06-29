@@ -132,51 +132,28 @@
 
 }
 /* Arkaplan Resmi 1 */
-.background-image-one {
+#header-section {
+    background: url('../img/anasayfaarkaplanı1.jpg') no-repeat 60% 100%;
+    background-size: cover;
+    height: 80vh;
+}
+.ovr {
+    top: 25%;
     position: relative;
-    width: 100%;
 }
-.text-bar-box {
-    position: absolute;
-    text-align: center;
-    top: 50px;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 0;
-    margin: auto;
-}
-.text-bar {
-    font-family: "Gotham" , sans-serif;
+.middle {
     font-size: 38px;
-    text-shadow: 0 0 30px #000;
-    font-weight: bold;
     color: white;
 }
-.view-tours {
-    border: 1px solid #e68b78;
-    border-radius: 10px;
+.buttonstil {
+    border-radius: 10px 10px;
     background-color: #e68b78;
-    font-weight: bold;
+    background-size: 1px;
+    padding: 11px 46px;
+    margin: 25px;
+    border: 0;
     color: white;
-    text-decoration: none;
-    padding: 8px 40px;
 }
-.view-tours:focus{
-    background-color: #e68b78!important;
-    color: white!important;
-    border: 1px solid #e68b78;
-    outline: none;
-    text-decoration: none;
-}
-.view-tours:hover {
-    border: 1px solid #e68b78;
-    background-color: #e68b78;
-    color: white;
-    text-decoration: none;
-}
-
 /*Yazı*/
 .Jake_a_look_at_our {
     font-family: "Savoye LET", sans-serif;
@@ -256,6 +233,12 @@ a.next a.prev:before {
     background: url('../img/anasayfa_resmi_3.jpg') center;
     background-size: cover;
     position: relative;
+    text-align: center;
+}
+.inriver{
+    opacity: 0.9;
+    background-color: #4ca1fb;
+    background-size: cover;
 }
 .join_the_newsletter {
     font-family: "Gotham" , sans-serif;
@@ -274,4 +257,14 @@ a.next a.prev:before {
 }
 .email_box{
     border: 8px solid #69aff7;
+    border-right: none;
 }
+.subscribe {
+    border: 8px solid #69aff7;
+    border-left: none;
+    margin-left: -5px;
+    background-color: #4cae4c;
+    color: white;
+    font-weight: bold;
+}
+/*Footer*/
