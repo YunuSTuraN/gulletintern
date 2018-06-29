@@ -2,8 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaad2be5-eaf9-48aa-98aa-8fc718425cf3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/10993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/BeachHolidays.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slider img/BeachHolidays.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/CabinCharters.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slider img/CabinCharters.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/EscortedTours.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slider img/EscortedTours.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Kayakoy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/other/Kayakoy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/PrivateCharters.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/slider img/PrivateCharters.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/anasayfa_resmi_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/anasayfa_resmi_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/background img/anasayfa_resmi_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/anasayfaarkaplan2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/anasayfaarkaplan2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/background img/anasayfaarkaplan2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/anasayfaarkaplanı1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/anasayfaarkaplanı1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/background img/anasayfaarkaplanı1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bodrum.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/other/bodrum.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/caret-left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icon/caret-left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/caret-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icon/caret-right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icon/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icon/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/google-plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icon/google-plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/gulet-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/kaleici.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/other/kaleici.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/member.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/theguardian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/travel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icon/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deneme.html" beforeDir="false" afterPath="$PROJECT_DIR$/deneme.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +44,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="316" column="14" lean-forward="true" selection-start-line="316" selection-start-column="14" selection-end-line="316" selection-end-column="14" />
+            <state relative-caret-position="997">
+              <caret line="324" column="36" selection-start-line="324" selection-start-column="36" selection-end-line="324" selection-end-column="36" />
+              <caret line="323" column="36" selection-start-line="323" selection-start-column="36" selection-end-line="323" selection-end-column="36" />
+              <caret line="322" column="36" selection-start-line="322" selection-start-column="36" selection-end-line="322" selection-end-column="36" />
+              <caret line="321" column="36" selection-start-line="321" selection-start-column="36" selection-end-line="321" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -30,8 +56,8 @@
       <file leaf-file-name="Styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="282" column="17" lean-forward="true" selection-start-line="282" selection-start-column="17" selection-end-line="282" selection-end-column="17" />
+            <state relative-caret-position="507">
+              <caret line="358" column="10" selection-start-line="358" selection-start-column="10" selection-end-line="358" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -165,12 +191,6 @@
               <item name="guletintern" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="guletintern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guletintern" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -189,8 +209,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Yunus Turan Yılmaz\WebstormProjects\guletintern\assets\img" />
-      <recent name="C:\Users\Yunus Turan Yılmaz\WebstormProjects\guletintern\assets\fonts" />
+      <recent name="C:\Users\Yunus Turan Yılmaz\WebstormProjects\guletintern\assets\img\other" />
+      <recent name="C:\Users\Yunus Turan Yılmaz\WebstormProjects\guletintern\assets\img\slider img" />
+      <recent name="C:\Users\Yunus Turan Yılmaz\WebstormProjects\guletintern\assets\img\background img" />
+      <recent name="C:\Users\Yunus Turan Yılmaz\WebstormProjects\guletintern\assets\img\logo" />
+      <recent name="C:\Users\Yunus Turan Yılmaz\WebstormProjects\guletintern\assets\img\icon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -227,26 +250,25 @@
       <workItem from="1530017928315" duration="3957000" />
       <workItem from="1530087205873" duration="16205000" />
       <workItem from="1530172526234" duration="18222000" />
-      <workItem from="1530256552171" duration="14223000" />
+      <workItem from="1530256552171" duration="14827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139993000" />
+    <option name="totallyTimeSpent" value="140597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28422618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28422618" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.47029704" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.47029704" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" visible="true" weight="0.32838285" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -508,13 +530,13 @@
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/CabinCharters.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/slider img/CabinCharters.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/BeachHolidays.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/slider img/BeachHolidays.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/PrivateCharters.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/slider img/PrivateCharters.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/chevron-circle-right.svg" />
@@ -560,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/email.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/icon/email.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/telephone.png">
@@ -575,15 +597,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="282" column="17" lean-forward="true" selection-start-line="282" selection-start-column="17" selection-end-line="282" selection-end-column="17" />
+        <state relative-caret-position="507">
+          <caret line="358" column="10" selection-start-line="358" selection-start-column="10" selection-end-line="358" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="316" column="14" lean-forward="true" selection-start-line="316" selection-start-column="14" selection-end-line="316" selection-end-column="14" />
+        <state relative-caret-position="997">
+          <caret line="324" column="36" selection-start-line="324" selection-start-column="36" selection-end-line="324" selection-end-column="36" />
+          <caret line="323" column="36" selection-start-line="323" selection-start-column="36" selection-end-line="323" selection-end-column="36" />
+          <caret line="322" column="36" selection-start-line="322" selection-start-column="36" selection-end-line="322" selection-end-column="36" />
+          <caret line="321" column="36" selection-start-line="321" selection-start-column="36" selection-end-line="321" selection-end-column="36" />
         </state>
       </provider>
     </entry>
