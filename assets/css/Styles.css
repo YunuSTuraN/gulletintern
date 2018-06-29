@@ -359,3 +359,30 @@ a.next a.prev:before {
 .image img{
     margin: 0;
 }
+
+/*Gulet detay*/
+#background_color{
+    background-color: #f6f6f6;
+}
+.text_link{
+    padding: 10px;
+    font-size: 14px;
+}
+.home {
+    color: black;
+}
+.home:hover {
+    color: black;
+}
+.home:focus {
+    color: black;
+}
+.turkey_or_greece {
+    color: black;
+}
+.turkey_or_greece:hover {
+    color: black;
+}
+.turkey_or_greece:focus {
+    color: black;
+}

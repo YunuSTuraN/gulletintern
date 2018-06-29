@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaad2be5-eaf9-48aa-98aa-8fc718425cf3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/css/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulet_detay.html" beforeDir="false" afterPath="$PROJECT_DIR$/gulet_detay.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,20 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulet_detay.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gulet_detay.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulet_detay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+            <state relative-caret-position="121">
+              <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="232" column="43" selection-start-line="232" selection-start-column="43" selection-end-line="232" selection-end-column="43" />
+            <state relative-caret-position="298">
+              <caret line="386" column="17" selection-start-line="386" selection-start-column="17" selection-end-line="386" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -105,10 +106,10 @@
         <option value="$PROJECT_DIR$/assets/js/Main.js" />
         <option value="$PROJECT_DIR$/deneme.css" />
         <option value="$PROJECT_DIR$/deneme.html" />
-        <option value="$PROJECT_DIR$/assets/css/Styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/deneme.js" />
         <option value="$PROJECT_DIR$/gulet_detay.html" />
+        <option value="$PROJECT_DIR$/assets/css/Styles.css" />
       </list>
     </option>
   </component>
@@ -206,12 +207,12 @@
       <workItem from="1530017928315" duration="3957000" />
       <workItem from="1530087205873" duration="16205000" />
       <workItem from="1530172526234" duration="18222000" />
-      <workItem from="1530256552171" duration="17373000" />
+      <workItem from="1530256552171" duration="19153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143143000" />
+    <option name="totallyTimeSpent" value="144923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -530,13 +531,6 @@
     <entry file="file://$PROJECT_DIR$/assets/img/telephone.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="232" column="43" selection-start-line="232" selection-start-column="43" selection-end-line="232" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/deneme.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -556,8 +550,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gulet_detay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        <state relative-caret-position="121">
+          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="386" column="17" selection-start-line="386" selection-start-column="17" selection-end-line="386" selection-end-column="17" />
         </state>
       </provider>
     </entry>
