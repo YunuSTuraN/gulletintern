@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaad2be5-eaf9-48aa-98aa-8fc718425cf3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulet_detay.html" beforeDir="false" afterPath="$PROJECT_DIR$/gulet_detay.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="gulet_detay.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulet_detay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
+            <state relative-caret-position="253">
+              <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -209,12 +206,12 @@
       <workItem from="1530017928315" duration="3957000" />
       <workItem from="1530087205873" duration="16205000" />
       <workItem from="1530172526234" duration="18222000" />
-      <workItem from="1530256552171" duration="22460000" />
+      <workItem from="1530256552171" duration="23771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148230000" />
+    <option name="totallyTimeSpent" value="149541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -228,7 +225,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.47029704" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" weight="0.32838285" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -560,8 +557,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gulet_detay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
+        <state relative-caret-position="253">
+          <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
         </state>
       </provider>
     </entry>
