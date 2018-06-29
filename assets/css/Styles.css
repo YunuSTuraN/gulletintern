@@ -245,11 +245,13 @@ a.next a.prev:before {
     font-size: 28px;
     font-weight: bold;
     margin: 0;
+    color: white;
 }
 .to_receive_our_best_monthly_deals{
     font-family: "Savoye LET", sans-serif;
     margin: 0;
     font-size: 18px;
+    color: white;
 }
 .email_box_out{
     margin: 0;
@@ -260,11 +262,100 @@ a.next a.prev:before {
     border-right: none;
 }
 .subscribe {
+    border-radius: 0;
     border: 8px solid #69aff7;
     border-left: none;
-    margin-left: -5px;
+    margin-left: -7px;
     background-color: #4cae4c;
     color: white;
     font-weight: bold;
 }
 /*Footer*/
+.footer_background{
+    background-color: #2c3e52;
+}
+/*footer sol taraf*/
+.about_us{
+    border-right: 2px solid gray;
+}
+.about {
+    text-underline: white;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: white;
+}
+.about:hover{
+    text-decoration: white;
+    color: white;
+}
+.about:focus{
+    text-decoration: white;
+    color: white;
+}
+.view {
+    position: absolute;
+    right: 0;
+    color: white;
+    text-decoration: white;
+}
+.view:hover{
+    text-decoration: white;
+    color: white;
+}
+.view:focus{
+    text-decoration: white;
+    color: white;
+}
+.faq {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-decoration: white;
+}
+.faq:hover{
+    text-decoration: white;
+    color: white;
+}
+.faq:focus{
+    text-decoration: white;
+    color: white;
+}
+.testimonials {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    text-decoration: white;
+}
+.testimonials:hover{
+    text-decoration: white;
+    color: white;
+}
+.testimonials:focus{
+    text-decoration: white;
+    color: white;
+}
+/*footer sag taraf*/
+.contact {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-decoration: white;
+}
+.contact:hover{
+    text-decoration: white;
+    color: white;
+}
+.contact:focus{
+    text-decoration: white;
+    color: white;
+}
+.social_media {
+    position: relative;
+    float: left;
+    list-style: none;
+}
+/*sponsor logoları*/
+.image img{
+    margin: 0;
+}
