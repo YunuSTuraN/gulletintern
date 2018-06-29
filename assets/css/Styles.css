@@ -386,3 +386,19 @@ a.next a.prev:before {
 .turkey_or_greece:focus {
     color: black;
 }
+/*Gulet detay slider*/
+.white_box {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid white;
+    -webkit-box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
+    -moz-box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
+    box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
+    width: 100%;
+    max-width: 720px;
+}
+.big_slider {
+    padding-bottom: 4px;
+}
+.small_slider {
+}
