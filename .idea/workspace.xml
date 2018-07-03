@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaad2be5-eaf9-48aa-98aa-8fc718425cf3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog_detay.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog_detay.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/destinations.html" beforeDir="false" afterPath="$PROJECT_DIR$/destinations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulet_type.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulet_detay.html" beforeDir="false" afterPath="$PROJECT_DIR$/gulet_detay.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulet_type_detay.html" beforeDir="false" afterPath="$PROJECT_DIR$/gulet_type_detay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offers.html" beforeDir="false" afterPath="$PROJECT_DIR$/offers.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/offers_detay.html" beforeDir="false" afterPath="$PROJECT_DIR$/offers_detay.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,44 +26,17 @@
       <file leaf-file-name="gulet_detay.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulet_detay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="71" column="6" lean-forward="true" selection-start-line="14" selection-end-line="71" selection-end-column="6" />
+            <state relative-caret-position="155">
+              <caret line="125" column="10" selection-start-line="125" selection-start-column="10" selection-end-line="125" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offers.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/offers.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="offers_detay.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/offers_detay.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gulet_type_detay.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulet_type_detay.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="376" column="13" lean-forward="true" selection-start-line="376" selection-start-column="13" selection-end-line="376" selection-end-column="13" />
+            <state relative-caret-position="274">
+              <caret line="395" column="49" selection-start-line="395" selection-start-column="49" selection-end-line="395" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -70,7 +44,7 @@
       <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
+            <state relative-caret-position="257">
               <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
             </state>
           </provider>
@@ -112,16 +86,16 @@
         <option value="$PROJECT_DIR$/deneme.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/deneme.js" />
-        <option value="$PROJECT_DIR$/assets/css/Styles.css" />
         <option value="$PROJECT_DIR$/assets/js/Main.js" />
-        <option value="$PROJECT_DIR$/gulet_detay.html" />
         <option value="$PROJECT_DIR$/gulet_type.html" />
+        <option value="$PROJECT_DIR$/offers.html" />
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/blog_detay.html" />
         <option value="$PROJECT_DIR$/destinations.html" />
-        <option value="$PROJECT_DIR$/offers_detay.html" />
         <option value="$PROJECT_DIR$/gulet_type_detay.html" />
-        <option value="$PROJECT_DIR$/offers.html" />
+        <option value="$PROJECT_DIR$/offers_detay.html" />
+        <option value="$PROJECT_DIR$/gulet_detay.html" />
+        <option value="$PROJECT_DIR$/assets/css/Styles.css" />
       </list>
     </option>
   </component>
@@ -136,7 +110,7 @@
       <path value="$PROJECT_DIR$/assets/lib/bootstrap/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -147,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,21 +128,11 @@
               <item name="guletintern" type="b2602c69:ProjectViewProjectNode" />
               <item name="guletintern" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="guletintern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guletintern" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guletintern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guletintern" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,12 +190,13 @@
       <workItem from="1530172526234" duration="18222000" />
       <workItem from="1530256552171" duration="24367000" />
       <workItem from="1530342786730" duration="1877000" />
-      <workItem from="1530605726526" duration="1429000" />
+      <workItem from="1530605726526" duration="1872000" />
+      <workItem from="1530608259988" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153443000" />
+    <option name="totallyTimeSpent" value="154482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -245,7 +209,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.47029704" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" visible="true" weight="0.32838285" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -460,42 +424,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/worldplasthair-master-073d45a08ebfddaec01b2db4f1a809a99761af59/worldplasthair-master-073d45a08ebfddaec01b2db4f1a809a99761af59/bb05dd402efc.html" />
-    <entry file="file://$PROJECT_DIR$/gulet_type.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="56" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_detay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="20" selection-end-line="23" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/destinations.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gulet_type.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="547">
@@ -506,38 +436,66 @@
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/offers_detay.html">
+    <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        <state relative-caret-position="1207">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
+    <entry file="file://$PROJECT_DIR$/blog_detay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="376" column="13" lean-forward="true" selection-start-line="376" selection-start-column="13" selection-end-line="376" selection-end-column="13" />
+        <state relative-caret-position="325">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/destinations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gulet_type_detay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        <state relative-caret-position="325">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulet_detay.html">
+    <entry file="file://$PROJECT_DIR$/assets/js/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="71" column="6" lean-forward="true" selection-start-line="14" selection-end-line="71" selection-end-column="6" />
+        <state relative-caret-position="257">
+          <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offers_detay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/offers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
+        <state relative-caret-position="1207">
           <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulet_detay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="125" column="10" selection-start-line="125" selection-start-column="10" selection-end-line="125" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="395" column="49" selection-start-line="395" selection-start-column="49" selection-end-line="395" selection-end-column="49" />
         </state>
       </provider>
     </entry>

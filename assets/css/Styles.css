@@ -359,7 +359,7 @@ a.next a.prev:before {
 .image img{
     margin: 0;
 }
-
+/*<-----------------------------------------------2.SAYFA------------------------------------------------------------>*/
 /*Gulet detay*/
 #background_color{
     background-color: #f6f6f6;
@@ -394,8 +394,6 @@ a.next a.prev:before {
     -webkit-box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
     -moz-box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
     box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
-    width: 100%;
-    max-width: 720px;
 }
 .big_slider {
     padding-bottom: 4px;
