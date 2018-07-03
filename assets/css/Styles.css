@@ -411,7 +411,26 @@ a.next a.prev:before {
 }
 /*<------------------------------------------------3.Sayfa----------------------------------------------------------->*/
 /*Destinations*/
-.background_pages  {
-    background: no-repeat 60% 100%;
+.background_pages {
+    background: url('/assets/img/other/kaleici.jpg') no-repeat 60% 100%;
     background-size: cover;
+}
+.thumbnail_our_header {
+    font-weight: bold;
+    font-size: 20px;
+}
+.thumbnail_white_box {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 0;
+}
+/*<------------------------------------------------7.Sayfa----------------------------------------------------------->*/
+/*Blog*/
+.blog_white_box {
+    background-color: white;
+    border: 1px solid white;
+    position: relative;
+}
+.blog_text{
+    text-align: center;
 }
