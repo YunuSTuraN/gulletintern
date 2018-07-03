@@ -377,13 +377,22 @@ a.next a.prev:before {
 .home:focus {
     color: black;
 }
-.turkey_or_greece {
+.link_pages {
     color: black;
 }
-.turkey_or_greece:hover {
+.link_pages:hover {
     color: black;
 }
-.turkey_or_greece:focus {
+.link_pages:focus {
+    color: black;
+}
+.link_city {
+    color: black;
+}
+.link_city:hover {
+    color: black;
+}
+.link_city:focus {
     color: black;
 }
 /*Gulet detay slider*/
@@ -399,4 +408,10 @@ a.next a.prev:before {
     padding-bottom: 4px;
 }
 .small_slider {
+}
+/*<------------------------------------------------3.Sayfa----------------------------------------------------------->*/
+/*Destinations*/
+.background_pages  {
+    background: no-repeat 60% 100%;
+    background-size: cover;
 }
