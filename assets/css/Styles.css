@@ -20,7 +20,8 @@
 
 
 
-
+/*<------------------------------------------------1.Sayfa----------------------------------------------------------->*/
+                                                 /*ANASAYFA*/
 /* Numara ve Arama kutusu Başladı */
 .number-or-searchbox {
     background-color: white;
@@ -270,7 +271,89 @@ a.next a.prev:before {
     color: white;
     font-weight: bold;
 }
-/*Footer*/
+
+/*<-----------------------------------------------2.SAYFA------------------------------------------------------------>*/
+                                               /*GULET DETAY*/
+#background_color{
+    background-color: #f6f6f6;
+}
+.text_link{
+    padding: 10px;
+    font-size: 14px;
+}
+.home {
+    color: black;
+}
+.home:hover {
+    color: black;
+}
+.home:focus {
+    color: black;
+}
+.link_pages {
+    color: black;
+}
+.link_pages:hover {
+    color: black;
+}
+.link_pages:focus {
+    color: black;
+}
+.link_city {
+    color: black;
+}
+.link_city:hover {
+    color: black;
+}
+.link_city:focus {
+    color: black;
+}
+/*Gulet detay slider*/
+.white_box {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid white;
+    -webkit-box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
+    -moz-box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
+    box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
+}
+.big_slider {
+    padding-bottom: 4px;
+}
+.small_slider {
+}
+/*<------------------------------------------------3.Sayfa----------------------------------------------------------->*/
+                                               /*DESTINATIONS*/
+.background_pages {
+    background: url('/assets/img/other/kaleici.jpg') no-repeat 60% 100%;
+    background-size: cover;
+}
+.thumbnail_our_header {
+    font-weight: bold;
+    font-size: 20px;
+}
+.thumbnail_white_box {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 0;
+}
+/*<------------------------------------------------4.Sayfa----------------------------------------------------------->*/
+/*<------------------------------------------------5.Sayfa----------------------------------------------------------->*/
+/*<------------------------------------------------6.Sayfa----------------------------------------------------------->*/
+/*<------------------------------------------------7.Sayfa----------------------------------------------------------->*/
+                                                   /*BLOG*/
+.blog_box {
+    background-color: white;
+    border: 1px solid white;
+    position: relative;
+}
+.blog_text{
+    text-align: center;
+}
+/*<------------------------------------------------8.Sayfa----------------------------------------------------------->*/
+
+/*<------------------------------------------------FOOTER------------------------------------------------------------>*/
+                                                 /*FOOTER*/
 .footer_background{
     background-color: #2c3e52;
 }
@@ -355,82 +438,29 @@ a.next a.prev:before {
     float: left;
     list-style: none;
 }
-/*sponsor logoları*/
+.email {
+    color: white;
+}
+.email:hover {
+    color: white;
+}
+.email:focus {
+    color: white;
+}
+.telephone {
+    color: white;
+}
+.telephone:hover {
+    color: white;
+}
+.telephone:focus {
+    color: white;
+}
+/*<------------------------------------------------SPONSPORLAR------------------------------------------------------->*/
+                                              /*SPONSOR LOGOLARI*/
 .image img{
     margin: 0;
 }
-/*<-----------------------------------------------2.SAYFA------------------------------------------------------------>*/
-/*Gulet detay*/
-#background_color{
-    background-color: #f6f6f6;
-}
-.text_link{
-    padding: 10px;
-    font-size: 14px;
-}
-.home {
-    color: black;
-}
-.home:hover {
-    color: black;
-}
-.home:focus {
-    color: black;
-}
-.link_pages {
-    color: black;
-}
-.link_pages:hover {
-    color: black;
-}
-.link_pages:focus {
-    color: black;
-}
-.link_city {
-    color: black;
-}
-.link_city:hover {
-    color: black;
-}
-.link_city:focus {
-    color: black;
-}
-/*Gulet detay slider*/
-.white_box {
+.sponsor_background{
     background-color: white;
-    padding: 20px;
-    border: 1px solid white;
-    -webkit-box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
-    -moz-box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
-    box-shadow: 1px 1px 10px 2px rgba(0,0,0,0.4);
-}
-.big_slider {
-    padding-bottom: 4px;
-}
-.small_slider {
-}
-/*<------------------------------------------------3.Sayfa----------------------------------------------------------->*/
-/*Destinations*/
-.background_pages {
-    background: url('/assets/img/other/kaleici.jpg') no-repeat 60% 100%;
-    background-size: cover;
-}
-.thumbnail_our_header {
-    font-weight: bold;
-    font-size: 20px;
-}
-.thumbnail_white_box {
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 0;
-}
-/*<------------------------------------------------7.Sayfa----------------------------------------------------------->*/
-/*Blog*/
-.blog_white_box {
-    background-color: white;
-    border: 1px solid white;
-    position: relative;
-}
-.blog_text{
-    text-align: center;
 }
