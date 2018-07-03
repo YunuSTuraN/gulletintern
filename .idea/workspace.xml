@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaad2be5-eaf9-48aa-98aa-8fc718425cf3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/destinations.html" beforeDir="false" afterPath="$PROJECT_DIR$/destinations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulet_detay.html" beforeDir="false" afterPath="$PROJECT_DIR$/gulet_detay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gulet_detay.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gulet_detay.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulet_detay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
+            <state relative-caret-position="104">
+              <caret line="164" column="4" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -32,8 +30,8 @@
       <file leaf-file-name="destinations.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/destinations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="146" column="6" selection-start-line="146" selection-start-column="6" selection-end-line="146" selection-end-column="6" />
+            <state relative-caret-position="172">
+              <caret line="147" column="10" selection-start-line="147" selection-start-column="10" selection-end-line="147" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -41,17 +39,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="325" column="6" lean-forward="true" selection-start-line="320" selection-end-line="325" selection-end-column="6" />
+            <state relative-caret-position="291">
+              <caret line="327" column="6" selection-start-line="327" selection-start-column="6" selection-end-line="327" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="131" column="6" selection-start-line="131" selection-start-column="6" selection-end-line="131" selection-end-column="6" />
+            <state relative-caret-position="206">
+              <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -59,7 +57,7 @@
       <file leaf-file-name="Styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1799">
+            <state relative-caret-position="291">
               <caret line="464" column="28" selection-start-line="464" selection-start-column="28" selection-end-line="464" selection-end-column="28" />
               <folding>
                 <element signature="e#25#329#0" />
@@ -106,18 +104,8 @@
                 <element signature="e#4946#4980#0" />
                 <element signature="e#4991#5049#0" />
                 <element signature="e#5061#5235#0" />
-                <element signature="e#6718#6752#0" />
-                <element signature="e#6763#6806#0" />
-                <element signature="e#6813#6834#0" />
-                <element signature="e#6847#6868#0" />
-                <element signature="e#6881#6902#0" />
-                <element signature="e#6921#6942#0" />
-                <element signature="e#6967#6988#0" />
-                <element signature="e#7013#7034#0" />
-                <element signature="e#7148#7156#0" />
                 <element signature="e#7181#7202#0" />
                 <element signature="e#7214#7235#0" />
-                <element signature="e#7069#7351#0" />
                 <element signature="e#7364#7392#0" />
                 <element signature="e#7407#7410#0" />
                 <element signature="e#7741#7749#0" />
@@ -198,7 +186,6 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/deneme.css" />
         <option value="$PROJECT_DIR$/deneme.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/js/deneme.js" />
         <option value="$PROJECT_DIR$/assets/js/Main.js" />
         <option value="$PROJECT_DIR$/gulet_type.html" />
@@ -206,10 +193,11 @@
         <option value="$PROJECT_DIR$/gulet_type_detay.html" />
         <option value="$PROJECT_DIR$/offers.html" />
         <option value="$PROJECT_DIR$/offers_detay.html" />
-        <option value="$PROJECT_DIR$/blog.html" />
-        <option value="$PROJECT_DIR$/destinations.html" />
         <option value="$PROJECT_DIR$/assets/css/Styles.css" />
         <option value="$PROJECT_DIR$/gulet_detay.html" />
+        <option value="$PROJECT_DIR$/destinations.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blog.html" />
       </list>
     </option>
   </component>
@@ -241,6 +229,11 @@
             <path>
               <item name="guletintern" type="b2602c69:ProjectViewProjectNode" />
               <item name="guletintern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guletintern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guletintern" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,21 +298,21 @@
       <workItem from="1530256552171" duration="24367000" />
       <workItem from="1530342786730" duration="1877000" />
       <workItem from="1530605726526" duration="1872000" />
-      <workItem from="1530608259988" duration="13024000" />
+      <workItem from="1530608259988" duration="13737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166910000" />
+    <option name="totallyTimeSpent" value="167623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28422618" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28422618" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.47029704" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.47029704" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -332,7 +325,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,23 +572,30 @@
     <entry file="file://$PROJECT_DIR$/assets/img/other/kaleici.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/gulet_detay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="325" column="6" lean-forward="true" selection-start-line="320" selection-end-line="325" selection-end-column="6" />
+        <state relative-caret-position="104">
+          <caret line="164" column="4" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
+    <entry file="file://$PROJECT_DIR$/destinations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="131" column="6" selection-start-line="131" selection-start-column="6" selection-end-line="131" selection-end-column="6" />
+        <state relative-caret-position="172">
+          <caret line="147" column="10" selection-start-line="147" selection-start-column="10" selection-end-line="147" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="327" column="6" selection-start-line="327" selection-start-column="6" selection-end-line="327" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1799">
+        <state relative-caret-position="291">
           <caret line="464" column="28" selection-start-line="464" selection-start-column="28" selection-end-line="464" selection-end-column="28" />
           <folding>
             <element signature="e#25#329#0" />
@@ -643,18 +642,8 @@
             <element signature="e#4946#4980#0" />
             <element signature="e#4991#5049#0" />
             <element signature="e#5061#5235#0" />
-            <element signature="e#6718#6752#0" />
-            <element signature="e#6763#6806#0" />
-            <element signature="e#6813#6834#0" />
-            <element signature="e#6847#6868#0" />
-            <element signature="e#6881#6902#0" />
-            <element signature="e#6921#6942#0" />
-            <element signature="e#6967#6988#0" />
-            <element signature="e#7013#7034#0" />
-            <element signature="e#7148#7156#0" />
             <element signature="e#7181#7202#0" />
             <element signature="e#7214#7235#0" />
-            <element signature="e#7069#7351#0" />
             <element signature="e#7364#7392#0" />
             <element signature="e#7407#7410#0" />
             <element signature="e#7741#7749#0" />
@@ -691,17 +680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/destinations.html">
+    <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="146" column="6" selection-start-line="146" selection-start-column="6" selection-end-line="146" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulet_detay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
+        <state relative-caret-position="206">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
         </state>
       </provider>
     </entry>
