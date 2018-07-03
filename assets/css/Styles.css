@@ -351,7 +351,7 @@ a.next a.prev:before {
     text-align: center;
 }
 /*<------------------------------------------------8.Sayfa----------------------------------------------------------->*/
-
+                                                /*BLOG DETAY*/
 /*<------------------------------------------------FOOTER------------------------------------------------------------>*/
                                                  /*FOOTER*/
 .footer_background{
@@ -461,6 +461,6 @@ a.next a.prev:before {
 .image img{
     margin: 0;
 }
-.sponsor_background{
+.sponsor_background img{
     background-color: white;
 }
