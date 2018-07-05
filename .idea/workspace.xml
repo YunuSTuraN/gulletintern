@@ -4,9 +4,7 @@
     <list default="true" id="aaad2be5-eaf9-48aa-98aa-8fc718425cf3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/Styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon/pound-sterling.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulet-type.html" beforeDir="false" afterPath="$PROJECT_DIR$/gulet-type.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offers.html" beforeDir="false" afterPath="$PROJECT_DIR$/offers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offers_detay.html" beforeDir="false" afterPath="$PROJECT_DIR$/offers_detay.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,26 +21,26 @@
       <file leaf-file-name="offers.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/offers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="132" column="45" selection-start-line="132" selection-start-column="45" selection-end-line="132" selection-end-column="45" />
-              <caret line="139" column="45" selection-start-line="139" selection-start-column="45" selection-end-line="139" selection-end-column="45" />
-              <caret line="138" column="45" selection-start-line="138" selection-start-column="45" selection-end-line="138" selection-end-column="45" />
-              <caret line="137" column="45" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
-              <caret line="136" column="45" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
-              <caret line="135" column="45" selection-start-line="135" selection-start-column="45" selection-end-line="135" selection-end-column="45" />
-              <caret line="134" column="45" selection-start-line="134" selection-start-column="45" selection-end-line="134" selection-end-column="45" />
-              <caret line="133" column="45" selection-start-line="133" selection-start-column="45" selection-end-line="133" selection-end-column="45" />
-              <caret line="131" column="45" selection-start-line="131" selection-start-column="45" selection-end-line="131" selection-end-column="45" />
-              <caret line="130" column="45" selection-start-line="130" selection-start-column="45" selection-end-line="130" selection-end-column="45" />
+            <state relative-caret-position="291">
+              <caret line="94" column="6" lean-forward="true" selection-start-line="79" selection-end-line="94" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="offers_detay.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/offers_detay.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="411" column="19" selection-start-line="411" selection-start-column="19" selection-end-line="411" selection-end-column="19" />
+            <state relative-caret-position="115">
+              <caret line="416" column="1" lean-forward="true" selection-start-line="416" selection-start-column="1" selection-end-line="416" selection-end-column="1" />
               <folding>
                 <element signature="e#25#329#0" />
                 <element signature="e#341#661#0" />
@@ -116,7 +114,11 @@
                 <element signature="e#7491#7499#0" />
                 <element signature="e#8028#8036#0" />
                 <element signature="e#7712#7910#0" />
+                <element signature="e#8697#8705#0" />
                 <element signature="e#8666#8674#0" />
+                <element signature="e#8744#8752#0" />
+                <element signature="e#8795#8803#0" />
+                <element signature="e#8846#8854#0" />
                 <element signature="e#7404#7489#0" />
                 <element signature="e#7500#7527#0" />
                 <element signature="e#7911#7945#0" />
@@ -189,7 +191,6 @@
         <option value="$PROJECT_DIR$/assets/js/Main.js" />
         <option value="$PROJECT_DIR$/blog_detay.html" />
         <option value="$PROJECT_DIR$/gulet_type_detay.html" />
-        <option value="$PROJECT_DIR$/offers_detay.html" />
         <option value="$PROJECT_DIR$/blog.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/destinations.html" />
@@ -198,6 +199,7 @@
         <option value="$PROJECT_DIR$/gulet_detay.html" />
         <option value="$PROJECT_DIR$/offers.html" />
         <option value="$PROJECT_DIR$/assets/css/Styles.css" />
+        <option value="$PROJECT_DIR$/offers_detay.html" />
       </list>
     </option>
   </component>
@@ -310,12 +312,12 @@
       <workItem from="1530608259988" duration="14517000" />
       <workItem from="1530627851449" duration="1676000" />
       <workItem from="1530630076180" duration="3294000" />
-      <workItem from="1530775497839" duration="10367000" />
+      <workItem from="1530775497839" duration="13376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183740000" />
+    <option name="totallyTimeSpent" value="186749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -328,7 +330,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.47029704" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49925596" visible="true" weight="0.32838285" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -542,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offers_detay.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="835">
-          <caret line="111" column="6" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/other/kaleici.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -615,26 +610,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="132" column="45" selection-start-line="132" selection-start-column="45" selection-end-line="132" selection-end-column="45" />
-          <caret line="139" column="45" selection-start-line="139" selection-start-column="45" selection-end-line="139" selection-end-column="45" />
-          <caret line="138" column="45" selection-start-line="138" selection-start-column="45" selection-end-line="138" selection-end-column="45" />
-          <caret line="137" column="45" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
-          <caret line="136" column="45" selection-start-line="136" selection-start-column="45" selection-end-line="136" selection-end-column="45" />
-          <caret line="135" column="45" selection-start-line="135" selection-start-column="45" selection-end-line="135" selection-end-column="45" />
-          <caret line="134" column="45" selection-start-line="134" selection-start-column="45" selection-end-line="134" selection-end-column="45" />
-          <caret line="133" column="45" selection-start-line="133" selection-start-column="45" selection-end-line="133" selection-end-column="45" />
-          <caret line="131" column="45" selection-start-line="131" selection-start-column="45" selection-end-line="131" selection-end-column="45" />
-          <caret line="130" column="45" selection-start-line="130" selection-start-column="45" selection-end-line="130" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/Styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="411" column="19" selection-start-line="411" selection-start-column="19" selection-end-line="411" selection-end-column="19" />
+        <state relative-caret-position="115">
+          <caret line="416" column="1" lean-forward="true" selection-start-line="416" selection-start-column="1" selection-end-line="416" selection-end-column="1" />
           <folding>
             <element signature="e#25#329#0" />
             <element signature="e#341#661#0" />
@@ -708,7 +687,11 @@
             <element signature="e#7491#7499#0" />
             <element signature="e#8028#8036#0" />
             <element signature="e#7712#7910#0" />
+            <element signature="e#8697#8705#0" />
             <element signature="e#8666#8674#0" />
+            <element signature="e#8744#8752#0" />
+            <element signature="e#8795#8803#0" />
+            <element signature="e#8846#8854#0" />
             <element signature="e#7404#7489#0" />
             <element signature="e#7500#7527#0" />
             <element signature="e#7911#7945#0" />
@@ -738,6 +721,20 @@
             <element signature="e#9688#9706#0" />
             <element signature="e#9730#9762#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="94" column="6" lean-forward="true" selection-start-line="79" selection-end-line="94" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offers_detay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
         </state>
       </provider>
     </entry>
