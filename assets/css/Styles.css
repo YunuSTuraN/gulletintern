@@ -338,6 +338,85 @@ a.next a.prev:before {
     border-radius: 0;
 }
 /*<------------------------------------------------4.Sayfa----------------------------------------------------------->*/
+                                                  /*OFFERS*/
+.offers_white_box{
+    font-family: "Gotham" , sans-serif;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    padding: 20px;
+}
+.offers_header{
+    font-size: 30px;
+}
+.offers_button {
+    color: white;
+    font-weight: bold;
+    background-color: #e68b78;
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+.offers_image_one{
+     width: 100%;
+ }
+.offers_image_two{
+    width: 50%;
+}
+.offers_white_box_two {
+    font-family: "Gotham" , sans-serif;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    padding: 20px;
+}
+.offers_social_media_box{
+    width: 20%;
+}
+.share_with_friends_box{
+    color: gray;
+    font-size: 20px;
+}
+.offers_social_media {
+    list-style: none;
+    padding: 0;
+}
+.offers_white_box_three{
+    font-family: "Gotham" , sans-serif;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    padding: 20px;
+}
+.offers_buton_two {
+    color: white;
+    background-color: #4cae4c;
+    text-align: center;
+}
+.offers_white_box_four{
+    font-family: "Gotham" , sans-serif;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.75);
+    padding: 20px;
+}
+.country{
+    list-style: none;
+    padding: 0;
+}
+.offers_country_text{
+    color: #e68b78;
+}
+.offers_country_text:hover {
+    color: #e68b78;
+}
+.offers_country_text:focus {
+    color: #e68b78;
+}
 /*<------------------------------------------------5.Sayfa----------------------------------------------------------->*/
 /*<------------------------------------------------6.Sayfa----------------------------------------------------------->*/
 /*<------------------------------------------------7.Sayfa----------------------------------------------------------->*/
